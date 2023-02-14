@@ -207,21 +207,21 @@ npm install
 
 ### Resources 
 
-To start receiving alerts with these bots, you can use various news and event feeds as sources, To find other RSS feeds, you can search for the website you're interested in along with "RSS" or "Atom". Alternatively, some websites may have links to their RSS feeds in the footer or elsewhere on the page.
+To start receiving alerts with these bots, you can use various news and event feeds as sources. You can find other RSS feeds by searching for the website you're interested in along with "RSS" or "Atom". Alternatively, some websites may have links to their RSS feeds in the footer or elsewhere on the page.
 
 #### Some Feed to start with
  
  - **Blogs-feed**
-	- [infosecurity-magazine.com](https://www.infosecurity-magazine.com/rss/news/)
-	- [bleepingcomputer.com](https://www.bleepingcomputer.com/feed/)
-	- [xpnsec.com](https://blog.xpnsec.com/rss.xml)
-	- [msrc-blog.microsoft.com](https://msrc-blog.microsoft.com/feed/)
-	- [sentinelone.com](https://www.sentinelone.com/feed/)
-	- [redcanary.com](https://redcanary.com/feed/)
-	- [cybersecurity.att.com](https://cybersecurity.att.com/site/blog-all-rss)
-	- [.cisa.gov](https://www.cisa.gov/uscert/ncas/alerts.xml)
-	- [ncsc.gov.uk](https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml)
-	- [cisecurity.org](https://www.cisecurity.org/feed/advisories)
+	- [Infosecurity Magazine](https://www.infosecurity-magazine.com/rss/news/)
+	- [BleepingComputer](https://www.bleepingcomputer.com/feed/)
+	- [XPNSEC](https://blog.xpnsec.com/rss.xml)
+	- [MSRC Blog](https://msrc-blog.microsoft.com/feed/)
+	- [SentinelOne](https://www.sentinelone.com/feed/)
+	- [Red Canary](https://redcanary.com/feed/)
+	- [AT&T Cybersecurity](https://cybersecurity.att.com/site/blog-all-rss)
+	- [CISA](https://www.cisa.gov/uscert/ncas/alerts.xml)
+	- [NCSC UK](https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml)
+	- [CISecurity](https://www.cisecurity.org/feed/advisories)
 
 - **YouTube-feed**
 	- [Computerphile](https://youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
@@ -254,13 +254,11 @@ To start receiving alerts with these bots, you can use various news and event fe
 - [ThreatIntelligenceDiscordBot](https://github.com/vxunderground/ThreatIntelligenceDiscordBot)
 
 
-#### Bonus 
+#### Bonus 	
 - [Spyo](https://top.gg/bot/877644741339144244):
-	we designed this bot specifically for **IT(Information technology) sector people** , those who come from Cybersecurity, InfoSec and tech field. we are trying to add useful ****OSINT, Cryptography, Forensics, Recon tools command**** that can help in pen testing, bug bounty, capture the flag etc . ****The bot also runs several CTF hacking challenges, Which you can play on your server and get certification for each CTF you solve and complete with thousands of members on the leaderboard.****
+	Spyo is a cutting-edge bot designed specifically for professionals in the information technology (IT) sector. With a focus on Cybersecurity, InfoSec, and other tech fields, Spyo offers a range of powerful tools and commands, including OSINT, Cryptography, Forensics, and Recon capabilities. The bot also features CTF hacking challenges that can be played on your server, allowing you to earn certifications for each challenge you complete and join thousands of members on the leaderboard.
 
-- **Telegram Channel Monitoring**:
-	In Order to recive alerts about Telegram Channel you can generate an RSS feed from public telegram channel just by adding the channel name into this URL
-	`https://rsshub.app/telegram/channel/<CHANNEL NAME>`
-	Example: `https://rsshub.app/telegram/channel/cveNotify`
+- **Telegram Channel Monitoring:**
+	Stay up-to-date with the latest news and information from your favorite Telegram channels using RSS feeds generated from public channels. Simply add the channel name to the URL `https://rsshub.app/telegram/channel/<CHANNEL NAME>` to start receiving alerts. For example, to receive updates from the "cveNotify" channel, use the URL `https://rsshub.app/telegram/channel/cveNotify`.
 
 
