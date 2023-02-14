@@ -261,6 +261,9 @@ To start receiving alerts with these bots, you can use various news and event fe
 - **Telegram Channel Monitoring:**
 	Stay up-to-date with the latest news and information from your favorite Telegram channels using RSS feeds generated from public channels. Simply add the channel name to the URL `https://rsshub.app/telegram/channel/<CHANNEL NAME>` to start receiving alerts. For example, to receive updates from the "cveNotify" channel, use the URL `https://rsshub.app/telegram/channel/cveNotify`.
 
+- [Discord C2](https://github.com/emmaunel/DiscordGo)
+	Since Discord is getting popular, why not use the platorm as a c2. That's what this project is about.
+
 
 Feel free to contact me if you have any questions or need more information about this. 
 I also welcome any suggestions or feedback to enhance this project 
