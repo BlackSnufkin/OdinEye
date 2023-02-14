@@ -262,3 +262,5 @@ To start receiving alerts with these bots, you can use various news and event fe
 	Stay up-to-date with the latest news and information from your favorite Telegram channels using RSS feeds generated from public channels. Simply add the channel name to the URL `https://rsshub.app/telegram/channel/<CHANNEL NAME>` to start receiving alerts. For example, to receive updates from the "cveNotify" channel, use the URL `https://rsshub.app/telegram/channel/cveNotify`.
 
 
+Feel free to contact me if you have any questions or need more information about this. 
+I also welcome any suggestions or feedback to enhance this project 
