@@ -24,7 +24,7 @@ Here's an example of what your server structure might look like:
 -   Default Text Channels
     -   Welcome
     -   Reminder-bot
-    -   Chat (optional)
+    -   ChatGPT (optional)
 -   Threat Intelligence Channels
     -   Twitter Feed
     -   Github Feed
