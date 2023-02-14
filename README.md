@@ -1,6 +1,7 @@
 ## OdinEye - Discord Cyber Threat Intelligence 
-
-
+---
+![eye_of_Odin](https://user-images.githubusercontent.com/61916899/218772571-1ee47d4c-5a30-4ecc-91b2-463b92e3a9a9.png)
+---
 ### Introduction:
 
 Discord is a platform that can be customized to provide cyber threat intelligence (CTI) professionals with personalized notifications and news updates. This guide will show you how to create a private Discord CTI "Dashboard" using various Discord bots. This server is designed for individual use and is not intended to be made public. It's a simple and effective way to stay informed and up-to-date on the latest developments in Offensive Security World
