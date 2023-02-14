@@ -211,7 +211,7 @@ To start receiving alerts with these bots, you can use various news and event fe
 
 #### Some Feed to start with
  
- - **Blogs-feed
+ - **Blogs-feed**
 	- [infosecurity-magazine.com](https://www.infosecurity-magazine.com/rss/news/)
 	- [bleepingcomputer.com](https://www.bleepingcomputer.com/feed/)
 	- [xpnsec.com](https://blog.xpnsec.com/rss.xml)
@@ -223,21 +223,21 @@ To start receiving alerts with these bots, you can use various news and event fe
 	- [ncsc.gov.uk](https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml)
 	- [cisecurity.org](https://www.cisecurity.org/feed/advisories)
 
-- **YouTube-feed
+- **YouTube-feed**
 	- [Computerphile](https://youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
 	- [John Hammond](https://youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
 	- [HackerSploit](https://youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
 	- [NahamSec](https://youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw)
 	- [IppSec](https://youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
 
-- **Github-Feed
+- **Github-Feed**
 	- [p0dalirius](https://github.com/p0dalirius.atom)
 	- [cube0x0](https://github.com/cube0x0.atom)
 	- [CCob](https://github.com/CCob.atom)
 	- [rasta-mouse](https://github.com/rasta-mouse.atom)
 	- [NUL0x4C](https://github.com/NUL0x4C.atom)
 
-- **Twitter-Feed
+- **Twitter-Feed**
 	- [zeropointsecltd](https://twitter.com/zeropointsecltd)
 	- [ly4k_](https://twitter.com/ly4k_)
 	- [_xpn_](https://twitter.com/_xpn_)
@@ -245,7 +245,7 @@ To start receiving alerts with these bots, you can use various news and event fe
 	- [mariuszbit](https://twitter.com/mariuszbit)
 	- [mrd0x](https://twitter.com/mrd0x)
 
-- **CVE-Alerts
+- **CVE-Alerts**
 - [threatintelctr](https://twitter.com/threatintelctr): In the Tweetshift BOT dashborad add this twitter account and set the channel to `cve-alert`
 
 #### More Resource 
